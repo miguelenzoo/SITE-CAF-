@@ -59,7 +59,7 @@
                 padding: 24px 24px;}
 
 .estudante-todos{display: grid;
-                 grid-template-columns: 25% 25% 25% 25%;}
+                 grid-template-columns: 33% 33% 33%;}
 .estudante-div{text-align: center;}
 
 
@@ -67,8 +67,8 @@
 
 
 
-.rodape-imagem{width: 5%;}
+.rodape-imagem{width: 3%;}
 
 .rodape{background-color: rgb(221, 199, 128);
          text-align: center;
-         padding: 12px 0px;}
+         padding: 24px 0px;}
